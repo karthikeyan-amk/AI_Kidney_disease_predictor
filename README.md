@@ -1,6 +1,6 @@
 # AI_Kidney_disease_predictor
-Collaborators:\n
-Karthikeyan A\n
-Mithreshvar MSA\n
-Raghul S\n
-Sakthi Santhosh B\n
+Collaborators:<br />
+Karthikeyan A<br />
+Mithreshvar MSA<br />
+Raghul S<br />
+Sakthi Santhosh B<br />
